@@ -1,0 +1,44 @@
+body{
+	margin:0;
+	font:18px/1.55 'Titillium Web', sans-serif;
+	background: #ffffff; 
+}
+
+img{border-style:none;}
+a{text-decoration:underline; color:#4F4F4F;}
+a:hover{text-decoration:underline; color:#4F4F4F;}
+input,
+textarea,
+select{
+	font: 100% 'Titillium Web', sans-serif;
+	vertical-align:middle;
+}
+form,fieldset{
+	margin:0;
+	padding:0;
+	border-style:none;
+}
+
+article{
+	text-align: justify;
+	margin-bottom: 25px;
+}
+
+
+i{
+	font-family: 'Titillium Web'; 
+	font-weight: 400;
+	font-style: italic;
+}
+
+strong, b{
+	font-family: 'Titillium Web'; 
+	font-weight: 700; 
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Titillium Web'; 
+	font-weight: 700; 
+	margin-top: 0;
+}
+
